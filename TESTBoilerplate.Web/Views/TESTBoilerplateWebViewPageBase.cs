@@ -12,6 +12,7 @@ namespace TESTBoilerplate.Web.Views
         protected TESTBoilerplateWebViewPageBase()
         {
             LocalizationSourceName = TESTBoilerplateConsts.LocalizationSourceName;
+            
         }
     }
 }
